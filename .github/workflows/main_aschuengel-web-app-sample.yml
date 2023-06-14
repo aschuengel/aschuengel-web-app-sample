@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'aschuengel-web-app-sample'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C3770DB9FBE74607AF99A6A8B835650A }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B699BE6EB13B4269917EA84FC53DE0B0 }}
           package: .
